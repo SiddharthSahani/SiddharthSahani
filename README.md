@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ML Engineer along with Web developer
 ------------------------------------
 
-Third Year CS student specializing in Artificial Intelligence and Data Science, but with keen interest in web development. I also like to do simulation based projects in C++.
+Fourth Year CS student specializing in Artificial Intelligence and Data Science, but with keen interest in web development. I also like to do simulation based projects in C++.
 
 * 🌍  I'm based in Mumbai, India
 * 🧠  I'm learning SvelteKit (JS framework)
